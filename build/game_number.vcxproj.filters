@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\game_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FD95F1FD-73EE-3DE8-AA22-A56935C685C6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
