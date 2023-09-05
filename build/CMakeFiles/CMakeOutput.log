@@ -7,7 +7,7 @@ Id flags:
 The output was:
 0
 MSBuild version 17.5.1+f6fdcf537 for .NET Framework
-Сборка начата 30.08.2023 0:24:13.
+Сборка начата 05.09.2023 19:21:49.
 Included response file: C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\MSBuild.rsp
 
 Проект "C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\build\CMakeFiles\3.25.1-msvc1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
@@ -52,7 +52,7 @@ Id flags:
 The output was:
 0
 MSBuild version 17.5.1+f6fdcf537 for .NET Framework
-Сборка начата 30.08.2023 0:24:14.
+Сборка начата 05.09.2023 19:21:50.
 Included response file: C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\MSBuild.rsp
 
 Проект "C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\build\CMakeFiles\3.25.1-msvc1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
@@ -80,7 +80,7 @@ FinalizeBuildStatus:
     Предупреждений: 0
     Ошибок: 0
 
-Прошло времени 00:00:00.51
+Прошло времени 00:00:00.49
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -90,28 +90,28 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 The CXX compiler identification is MSVC, found in "C:/Users/Михаил/Desktop/Otus/dz-3/Otus_homework_3/build/CMakeFiles/3.25.1-msvc1/CompilerIdCXX/CompilerIdCXX.exe"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Михаил/Desktop/Otus/dz-3/Otus_homework_3/build/CMakeFiles/CMakeScratch/TryCompile-ge5bnn
+Change Dir: C:/Users/Михаил/Desktop/Otus/dz-3/Otus_homework_3/build/CMakeFiles/CMakeScratch/TryCompile-giwwce
 
-Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8c259.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_38733.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.35.32217.1 для x64
   CMakeCCompilerABI.c
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8c259.dir\Debug\\" /Fd"cmTC_8c259.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
-  cmTC_8c259.vcxproj -> C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\build\CMakeFiles\CMakeScratch\TryCompile-ge5bnn\Debug\cmTC_8c259.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_38733.dir\Debug\\" /Fd"cmTC_38733.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
+  cmTC_38733.vcxproj -> C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\build\CMakeFiles\CMakeScratch\TryCompile-giwwce\Debug\cmTC_38733.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Михаил/Desktop/Otus/dz-3/Otus_homework_3/build/CMakeFiles/CMakeScratch/TryCompile-r4x2dq
+Change Dir: C:/Users/Михаил/Desktop/Otus/dz-3/Otus_homework_3/build/CMakeFiles/CMakeScratch/TryCompile-jfbeit
 
-Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_d9875.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_70ad2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.35.32217.1 для x64
   CMakeCXXCompilerABI.cpp
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d9875.dir\Debug\\" /Fd"cmTC_d9875.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.25\Modules\CMakeCXXCompilerABI.cpp"
-  cmTC_d9875.vcxproj -> C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\build\CMakeFiles\CMakeScratch\TryCompile-r4x2dq\Debug\cmTC_d9875.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_70ad2.dir\Debug\\" /Fd"cmTC_70ad2.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.25\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_70ad2.vcxproj -> C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\build\CMakeFiles\CMakeScratch\TryCompile-jfbeit\Debug\cmTC_70ad2.exe
 
 
 

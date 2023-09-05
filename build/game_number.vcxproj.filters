@@ -1,14 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\game_number.cpp">
+    <ClCompile Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\random_value.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\high_scores_reader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\high_scores_writer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\random_value.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\high_scores.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\Михаил\Desktop\Otus\dz-3\Otus_homework_3\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{352F78D7-1F08-38D3-AA4E-9EDC578ED75F}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{FD95F1FD-73EE-3DE8-AA22-A56935C685C6}</UniqueIdentifier>
     </Filter>
