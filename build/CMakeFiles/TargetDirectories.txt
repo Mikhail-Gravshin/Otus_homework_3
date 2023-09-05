@@ -1,3 +1,0 @@
-C:/Users/Михаил/Desktop/Otus/dz-3/Otus_homework_3/build/CMakeFiles/game_number.dir
-C:/Users/Михаил/Desktop/Otus/dz-3/Otus_homework_3/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Михаил/Desktop/Otus/dz-3/Otus_homework_3/build/CMakeFiles/ZERO_CHECK.dir
